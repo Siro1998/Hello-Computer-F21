@@ -1,10 +1,10 @@
 # This is my wk1 homework for Hello Computer F21!
 ## Speech Synthesis
 
-For this assignment I made a speech synthesis that allows the user to type in words and the website will speak it out loud. 
-I created four buttons for different language choices(French, German, Japanese and Chinese).
-If type in any language displayed, and choose the same button, the website will speak that language.
-If type in a different language, the website will speak the type-in language with an accent of the "button" language.(Sometimes it doesn't work if the two languages are too different.)
+* For this assignment I made a speech synthesis that allows the user to type in words and the website will speak it out loud. 
+* I created four buttons for different language choices(French, German, Japanese and Chinese).
+* If type in any language displayed, and choose the same button, the website will speak that language.
+* If type in a different language, the website will speak the type-in language with an accent of the "button" language.(Sometimes it doesn't work if the two languages are too different.)
 
 
 Below are two screen shots of the website.
