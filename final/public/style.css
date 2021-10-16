@@ -1,0 +1,62 @@
+body{
+    background: white;
+    margin: 0;
+    /* text-align:center; */
+}
+
+button{
+    background: rgb(255, 196, 0);
+    padding: .6em 1.3em;
+    font-size: 1.4em;
+    border-radius: 5em;
+    margin: 2em 1em; 
+    display: inline-block;
+}
+
+.navbar{
+    background:rgb(255, 196, 0);
+    padding: 20px;
+    display: flex;
+    place-content:space-between;
+    font-family: 'test_06';
+    font-size:40px;
+}
+
+.startmenu{
+    display: flex;
+    place-content:center;
+}
+
+.canvas{
+    position:absolute;
+    right: 550px;
+    top: 210px;
+}
+
+.answer{
+    display: flex;
+    place-content:center;
+}
+
+.myspeech{
+    text-align:center;
+    margin-top: 330px;
+    font-family: 'test_06';
+    font-size:50px;
+}
+
+.judgement{
+    position:absolute;
+    right: 170px;
+    top: 300px;
+    font-family: 'Marker Felt';
+    font-size:60px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
